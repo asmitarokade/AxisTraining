@@ -3,7 +3,7 @@ package jdbcConn;
 import java.util.Scanner;
 
 public class Basic {
-
+        //git hub modification done here
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Num1 (between 10 and 100): ");
